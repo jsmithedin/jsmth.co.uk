@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jsmth.co.uk/posts/2015-06-09-chili-plant-monitor/</loc>
+    <lastmod>2015-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jsmth.co.uk/</loc>
+    <lastmod>2015-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jsmth.co.uk/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jsmth.co.uk/tags/android/</loc>
+    <lastmod>2015-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jsmth.co.uk/tags/bash/</loc>
+    <lastmod>2015-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jsmth.co.uk/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jsmth.co.uk/tags/chili-plants/</loc>
+    <lastmod>2015-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jsmth.co.uk/tags/criticalblue/</loc>
+    <lastmod>2015-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jsmth.co.uk/tags/linux/</loc>
+    <lastmod>2015-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jsmth.co.uk/posts/</loc>
+    <lastmod>2015-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jsmth.co.uk/tags/python/</loc>
+    <lastmod>2015-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jsmth.co.uk/tags/raspberry-pi/</loc>
+    <lastmod>2015-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jsmth.co.uk/tags/</loc>
+    <lastmod>2015-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

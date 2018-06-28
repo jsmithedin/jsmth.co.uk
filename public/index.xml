@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://jsmth.co.uk/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jsmth.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chili Plant Monitor</title>
+      <link>https://jsmth.co.uk/posts/2015-06-09-chili-plant-monitor/</link>
+      <pubDate>Tue, 09 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jsmth.co.uk/posts/2015-06-09-chili-plant-monitor/</guid>
+      <description>After moving desks around the turn of the year into a new room with windows, a bit of a rarity at CriticalBlue, a colleague and I decided it was time to add some greenery to our, at this point, boring corner office. The obvious thing to grow was a bunch of chili plants! Amazon provided me with a pack of easy to grow Apache F1 seeds, some pots and a bag of compost.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jsmth.co.uk/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jsmth.co.uk/about/</guid>
+      <description> From Edinburgh, Scotland DevOps Engineer at Cloudreach BEng(Hons) Embedded Processor Systems from Edinburgh Napier University Tinkerer, Cyclist, Football Fan  </description>
+    </item>
+    
+  </channel>
+</rss>

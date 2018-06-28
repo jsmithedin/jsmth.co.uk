@@ -1,0 +1,47 @@
+## Basic Configuration
+baseurl = "https://jsmth.co.uk/"
+languageCode = "en"
+
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+
+## Site Settings
+[params]
+    author = "Jamie Smith"
+    title = "jsmth.co.uk"
+    description = "Jamie Smith"
+    authorimage = "/img/jamie.jpg"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+    # highlightjsstyle = "github"
+    # please choose either GraphComment or Disqus
+    # GraphCommentId = "your-graph-comment-id"
+    # layoutReverse = true
+    # sidebarSticky = true
+
+## Social Accounts
+[params.social]
+    github = "jsmithedin"
+    #instagram = "<username>"
+    #xing = "<username>"
+    linkedin = "jamie-smith-b74b1a14"
+    twitter = "@jpsmith42"
+    #facebook = "<username>"
+    #stackoverflow = "<username>"
+    email = "jamie@jsmth.co.uk"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
